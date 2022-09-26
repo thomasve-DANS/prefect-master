@@ -1,3 +1,0 @@
-[submodule "thomasve-load"]
-	path = thomasve-load
-	url = git@github.com:thomasve-DANS/prefect-load.git
